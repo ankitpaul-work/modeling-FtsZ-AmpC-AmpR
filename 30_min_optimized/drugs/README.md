@@ -1,0 +1,1 @@
+This directory contains the scripts that run simulations on the biochemical model (best-fit to 30 min literature target points) under the exposure of $\beta$-lactams such as **ampicillin, cefotaxime, cefuroxime, cephalexin, and oxacillin**. The time course plots of the drugs are generated in their corresponding plot directories. The scripts are self-explanatory.
